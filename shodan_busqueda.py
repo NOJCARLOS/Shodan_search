@@ -47,7 +47,7 @@ STUDENT = {
 # Configuración de Shodan / API
 # =============================
 # API Key proporcionada por el usuario (quemada en el código)
-SHODAN_API_KEY: str = "U3QnwtjE9hh6LJKjt3VXQGJTeqRwKyEL"
+SHODAN_API_KEY: str = "XXXXXXX"
 
 # Filtro de ciudad (ajustable). Dejar como None para no forzar ciudad concreta.
 CITY_FILTER: Optional[str] = None
